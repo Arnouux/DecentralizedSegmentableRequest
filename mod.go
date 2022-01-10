@@ -8,13 +8,13 @@ import (
 	"go.dedis.ch/cs438/peer"
 )
 
-type node struct {
+type Node struct {
 	peer.Peer
 
 	conf peer.Configuration
 }
 
-func (n *node) SendPrepDwnldResp(dest string, relays map[uint]string) error {
+func (n *Node) SendPrepDwnldResp(dest string, relays map[uint]string) error {
 	//TODO send PrepareDownloadReply to dest &&
 	//Todo: stats on how fast get data from url server (no more than upperbound bytes)
 
@@ -46,8 +46,8 @@ func (n *node) SendPrepDwnldResp(dest string, relays map[uint]string) error {
 	return nil
 }
 
-func NewNode(conf peer.Configuration) *node {
-	node := &node{conf: conf}
+func NewNode(conf peer.Configuration) *Node {
+	node := &Node{conf: conf}
 
 	return node
 }
