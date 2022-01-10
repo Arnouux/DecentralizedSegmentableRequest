@@ -1,4 +1,4 @@
-module github.com/Arnouux/DecentralizedSegmentableRequests
+module github.com/Arnouux/DecentralizedSegmentableRequest
 
 go 1.16
 
