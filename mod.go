@@ -45,3 +45,9 @@ func (n *node) SendPrepDwnldResp(dest string, relays map[uint]string) error {
 
 	return nil
 }
+
+func NewNode(conf peer.Configuration) *node {
+	node := &node{conf: conf}
+
+	return node
+}
