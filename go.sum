@@ -4,12 +4,6 @@ github.com/Arnouux/decentralized-segmentable-requests-test v0.0.0-20220110181839
 github.com/Arnouux/decentralized-segmentable-requests-test v0.0.0-20220110181839-ebc7c2dcdebd/go.mod h1:8KRZR6v7FdbPDWnlrO4X2vtwKXdvfv37OSZmX+2/jvs=
 github.com/Arnouux/decentralized-segmentable-requests-test v0.0.0-20220110191346-351ea470507d h1:Yc/UwB7yRhKrhnXhpL8qWULCrW5hN8y/AXSUoCt6J+Y=
 github.com/Arnouux/decentralized-segmentable-requests-test v0.0.0-20220110191346-351ea470507d/go.mod h1:8KRZR6v7FdbPDWnlrO4X2vtwKXdvfv37OSZmX+2/jvs=
-github.com/Arnouux/distributed-segmentable-requests v0.0.0-20220111160638-cf6e481fe89d h1:IJyumpX0c4ukGEV0KfWbcq/5gtBTH4KhGIZFYB2v+is=
-github.com/Arnouux/distributed-segmentable-requests v0.0.0-20220111160638-cf6e481fe89d/go.mod h1:DBVnI7N8Hsuk8z0Jeo803WX6FC0+hFQxQcHeQTIWrus=
-github.com/Arnouux/distributed-segmentable-requests v0.0.0-20220111161302-6d2443013217 h1:tk2Qp6iHKlX7co2st1+ZYj87JKWDMncTYphyseQrrZs=
-github.com/Arnouux/distributed-segmentable-requests v0.0.0-20220111161302-6d2443013217/go.mod h1:4HtB+fKAhlji7U3B4PEnVAgef1ZofDMPRw6ki7hcxRM=
-github.com/Arnouux/distributed-segmentable-requests-test v0.0.0-20220111170357-47c2609229ad h1:HlG3eRUK4NCczzdBp03mQsXDDIckkhST3X3xADPEvNk=
-github.com/Arnouux/distributed-segmentable-requests-test v0.0.0-20220111170357-47c2609229ad/go.mod h1:PrSW/8HHTH6EGYhgWYmttEH32XOxv2HFHAC33g+/n9M=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/DistributedClocks/GoVector v0.0.0-20210402100930-db949c81a0af h1:dZA/5RPZb4h+6EPdMIyQ1SE62NBBGIp6O1UNowh+Ozg=
 github.com/DistributedClocks/GoVector v0.0.0-20210402100930-db949c81a0af/go.mod h1:KhO62KYM3s2gEKM3ESiiI4pgvEPHz96Y1R1ceFpyVBg=
